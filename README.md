@@ -22,8 +22,9 @@ Activities as below,
     . aslo attached seperate sql fiel to  verify
 
 -> Installed R 
-    . Loaded text file content into mysql table orders
-    . Explored 'Market Basket Analysis'
+    . Explored basics of R
+    . Tried few suffs on R like loading loading file into data object and inspecting,...
+    . Explored basics of 'Market Basket Analysis'
     . Explored 'apriori' algorithm 
     . To solve Q3 As a Data Engineer need to explore few more stuffs to understand & become a Datascientest :)
 
