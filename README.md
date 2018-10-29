@@ -24,8 +24,8 @@ Activities as below,
 -> Installed R 
     . Loaded text file content into mysql table orders
     . Explored 'Market Basket Analysis'
-    . Explored 'apriori' algorithm
-
+    . Explored 'apriori' algorithm 
+    . To solve Q3 As a Data Engineer need to explore few more stuffs to understand & become a Datascientest :)
 
 
 
