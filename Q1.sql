@@ -94,4 +94,6 @@ GROUP BY Page_ID , dt
 ORDER BY Page_ID , dt)as a)as b)as c group by Page_ID,Visit_Date  order by Page_ID,Visit_Date;
 
 
+                output: Plese refer Q1.output file
+                
 
