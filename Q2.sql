@@ -1,3 +1,5 @@
+NOTE: This file is just notes/rought work  please refer = https://github.com/vallalbe/MoneySmart_POC/blob/master/MoneySmart_POC_ETL.scala
+
 select exper as Experiment,grp as GroupName,count( distinct usr) Total_Users from log_table group by exper,grp order by exper,grp,Total_Users;
 
 
