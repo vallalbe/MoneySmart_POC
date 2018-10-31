@@ -26,7 +26,7 @@ Activities as below,
     . Tried few suffs on R like loading loading file into data object and inspecting,...
     . Explored basics of 'Market Basket Analysis'
     . Explored 'apriori' algorithm 
-    . At given time range(2 days) solved Q1, Q2 & Explored on Q3 but to solve Q3 ,As a Data Engineer need to explore few more stuffs to understand & become a Datascientest :)
+    . At given time range(2 days) solved Q1, Q3 & Explored on Q2 but to solve Q2 ,As a Data Engineer need to explore few more stuffs to understand & become a Datascientest :)
 
 
 
